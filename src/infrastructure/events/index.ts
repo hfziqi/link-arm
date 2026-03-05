@@ -1,0 +1,1 @@
+export { documentEventManager } from './documentEventManager'

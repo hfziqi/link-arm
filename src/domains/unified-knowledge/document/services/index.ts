@@ -1,0 +1,6 @@
+export { documentIndexStorage, getDocumentIndexStorage } from './documentIndexStorage'
+export { documentContentStorage, getDocumentContentStorage } from './documentContentStorage'
+export { documentIOService, getDocumentIOService } from './DocumentIOService'
+export { documentFolderService, getDocumentFolderService } from './DocumentFolderService'
+export { documentDataService, getDocumentDataService } from './DocumentDataService'
+export type { FileType, FileItem, FileContent, ListFilesParams, CreateFileParams } from './DocumentDataService'
